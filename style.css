@@ -57,7 +57,7 @@ main .first-section{
 @media only screen and (max-width: 570px) {
     main .first-section{
         width: 95%;
-        height: 40%;
+        height: 95%;
     }
 
     .first-section .box1{
